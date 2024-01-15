@@ -1,0 +1,28 @@
+{
+    "pages": [{
+            "name": "Dashboard Analytics",
+            "icon": "ti-smart-home",
+            "url": "index.html"
+        },
+        {
+            "name": "Dashboard CRM",
+            "icon": "ti-smart-home",
+            "url": "dashboards-crm.html"
+        },
+        {
+            "name": "Dashboard eCommerce",
+            "icon": "ti-smart-home",
+            "url": "dashboards-ecommerce.html"
+        },
+        {
+            "name": "Layout Collapsed menu",
+            "icon": "ti-layout-sidebar",
+            "url": "layouts-collapsed-menu.html"
+        },
+        {
+            "name": "Layout Content navbar",
+            "icon": "ti-layout-sidebar",
+            "url": "layouts-content-navbar.html"
+        }
+    ]
+}

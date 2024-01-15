@@ -1,0 +1,158 @@
+/*L-desktop*/
+
+@media (min-device-width:  1600px)
+{
+
+}
+
+/*L-laptops*/
+@media only screen and (min-device-width: 1200px) and (max-device-width: 1440px)
+{
+    .wrapper
+    {
+        width: 90%;
+    }
+    .steps
+    {
+        width: 90%;
+    }
+
+}
+
+/*laptops/tablets*/
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px)
+{
+    .wrapper
+    {
+        width: 90%;
+    }
+    .steps
+    {
+        width: 90%;
+    }
+    .main-heading
+    {
+        font-size: 30px;
+    }
+    .form-radio
+    {
+        font-size: 17px;
+    }
+    .next-prev-button button
+    {
+        font-size: 12px;
+    }
+    .score-point
+    {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 12px;
+    }
+    
+}
+
+@media screen and (max-width: 576px){
+    main {
+        padding: 20px 5px;
+    }
+    
+   .next-prev-button a {
+	display: flex;
+	flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    margin: 0 auto;
+    width: 100%;
+    border: 0;
+    border-radius: 50px;
+    height: 60px;
+    margin-bottom: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    position: relative;
+    overflow: hidden;
+}
+}
+
+
+/*tablets*/
+@media only screen and (min-device-width: 576px) and (max-device-width: 768px)
+{
+        
+
+    .tab-100
+    {
+        width: 100%;
+    }
+    .main-heading
+    {
+        font-size: 24px;
+    }
+    .steps
+    {
+        width: 100%;
+    }
+
+
+}
+
+
+/*Smart phone*/
+@media only screen and (min-device-width: 320px) and (max-device-width: 576px)
+{
+    .bg-partical-2
+    {
+        display: none;
+    }
+    .order-c
+    {
+        order: 2;
+        display: none;
+    }
+    .wrapper
+    {
+        width: 100%;
+        padding: 20px;
+    }
+    .steps
+    {
+        width: 100%;
+    }
+    .main-heading
+    {
+        width: 100%;
+        font-size: 24px;
+    }
+    .form
+    {
+        flex: 0;
+    }
+    .next-prev-button button
+    {
+        width: 100%;
+    }
+    .side-inner
+    {
+        display: block;
+    }
+    form
+    {
+        height: auto;
+    }
+    .contact
+    {
+        justify-content: center;
+    }
+    .score-point
+    {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 12px;
+    }
+}
+
+

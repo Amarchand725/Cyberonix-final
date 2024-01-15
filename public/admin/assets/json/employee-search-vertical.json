@@ -1,0 +1,62 @@
+{
+    "pages": [{
+            "name": "Dashboard",
+            "icon": "ti-smart-home",
+            "url": "dashboard"
+        }, {
+            "name": "All Notifications",
+            "icon": "ti-smart-home",
+            "url": "notifications"
+        },
+        {
+            "name": "Chat",
+            "icon": "ti-smart-home",
+            "url": "chat"
+        },
+        {
+            "name": "Insurances",
+            "icon": "ti-smart-home",
+            "url": "insurances/create"
+        },
+        {
+            "name": "My Tickets",
+            "icon": "ti-smart-home",
+            "url": "tickets"
+        },
+        {
+            "name": "Salary Details",
+            "icon": "ti-smart-home",
+            "url": "employees/salary_details"
+        },
+        {
+            "name": "Letters",
+            "icon": "ti-smart-home",
+            "url": "employee_letters"
+        },
+        {
+            "name": "My Leaves",
+            "icon": "ti-smart-home",
+            "url": "user_leaves"
+        },
+        {
+            "name": "Leaves Report",
+            "icon": "ti-smart-home",
+            "url": "users_leaves/report"
+        },
+        {
+            "name": "Daily Log",
+            "icon": "ti-smart-home",
+            "url": "user/attendance/daily-log"
+        },
+        {
+            "name": "Discrepancies",
+            "icon": "ti-smart-home",
+            "url": "user/discrepancies"
+        },
+        {
+            "name": "Attendance Summary",
+            "icon": "ti-smart-home",
+            "url": "user/attendance/summary"
+        }
+    ]
+}

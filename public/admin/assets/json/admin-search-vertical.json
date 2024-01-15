@@ -1,0 +1,273 @@
+{
+    "pages": [{
+            "name": "Dashboard",
+            "icon": "ti-smart-home",
+            "url": "dashboard"
+        },
+        {
+            "name": "All Notifications",
+            "icon": "ti-smart-home",
+            "url": "notifications"
+        },
+        {
+            "name": "Chat",
+            "icon": "ti-smart-home",
+            "url": "chat"
+        },
+        {
+            "name": "IP Managements",
+            "icon": "ti-smart-home",
+            "url": "ip-managements"
+        },
+        {
+            "name": "Insurances",
+            "icon": "ti-smart-home",
+            "url": "insurances"
+        },
+        {
+            "name": "My Tickets",
+            "icon": "ti-smart-home",
+            "url": "tickets"
+        },
+        {
+            "name": "Team Tickets",
+            "icon": "ti-smart-home",
+            "url": "team/tickets"
+        },
+        {
+            "name": "All Tickets",
+            "icon": "ti-smart-home",
+            "url": "tickets/all_tickets"
+        },
+        {
+            "name": "Waiting for Approval Tickets",
+            "icon": "ti-smart-home",
+            "url": "tickets/waiting_approval_tickets"
+        },
+        {
+            "name": "All Documents",
+            "icon": "ti-smart-home",
+            "url": "documents"
+        },
+        {
+            "name": "My Resignations",
+            "icon": "ti-smart-home",
+            "url": "resignations"
+        },
+        {
+            "name": "Team Resignations",
+            "icon": "ti-smart-home",
+            "url": "resignations/team_resignations"
+        },
+        {
+            "name": "All Resignations",
+            "icon": "ti-smart-home",
+            "url": "resignations/employee_resignations"
+        },
+        {
+            "name": "Terminated Employees",
+            "icon": "ti-smart-home",
+            "url": "terminated_employees"
+        },
+        {
+            "name": "All Re-hired Employees",
+            "icon": "ti-smart-home",
+            "url": "resignations/re-hired/employees"
+        },
+        {
+            "name": "Adjustments",
+            "icon": "ti-smart-home",
+            "url": "mark_attendance"
+        },
+        {
+            "name": "Salary Details",
+            "icon": "ti-smart-home",
+            "url": "employees/salary_details"
+        },
+        {
+            "name": "Monthly Salary Report",
+            "icon": "ti-smart-home",
+            "url": "monthly_salary_reports"
+        },
+        {
+            "name": "Vehicle Inspections",
+            "icon": "ti-smart-home",
+            "url": "vehicle_inspections"
+        },
+        {
+            "name": "Vehicle Users",
+            "icon": "ti-smart-home",
+            "url": "vehicle_users"
+        },
+        {
+            "name": "Vehicle Allowances",
+            "icon": "ti-smart-home",
+            "url": "vehicle_allowances"
+        },
+        {
+            "name": "Vehicle Rents",
+            "icon": "ti-smart-home",
+            "url": "vehicle_rents"
+        },
+        {
+            "name": "All Vehicles",
+            "icon": "ti-smart-home",
+            "url": "vehicles"
+        },
+        {
+            "name": "Vehicle Owners",
+            "icon": "ti-smart-home",
+            "url": "vehicle_owners"
+        },
+        {
+            "name": "Letters",
+            "icon": "ti-smart-home",
+            "url": "employee_letters"
+        },
+        {
+            "name": "All Employees",
+            "icon": "ti-smart-home",
+            "url": "employees"
+        },
+        {
+            "name": "New Joinings",
+            "icon": "ti-smart-home",
+            "url": "new_joinings"
+        },
+        {
+            "name": "WFH Employees",
+            "icon": "ti-smart-home",
+            "url": "wfh_employees"
+        },
+        {
+            "name": "Designations",
+            "icon": "ti-smart-home",
+            "url": "designations"
+        },
+        {
+            "name": "Employment Status",
+            "icon": "ti-smart-home",
+            "url": "employment_status"
+        },
+        {
+            "name": "Pre Employees",
+            "icon": "ti-smart-home",
+            "url": "pre_employees"
+        },
+        {
+            "name": "My Leaves",
+            "icon": "ti-smart-home",
+            "url": "user_leaves"
+        },
+        {
+            "name": "Team Leaves",
+            "icon": "ti-smart-home",
+            "url": "team/leaves"
+        },
+        {
+            "name": "Leaves Report",
+            "icon": "ti-smart-home",
+            "url": "users_leaves/report"
+        },
+        {
+            "name": "Daily Log",
+            "icon": "ti-smart-home",
+            "url": "user/attendance/daily-log"
+        },
+        {
+            "name": "Discrepancies",
+            "icon": "ti-smart-home",
+            "url": "user/discrepancies"
+        },
+        {
+            "name": "Team Discrepancies",
+            "icon": "ti-smart-home",
+            "url": "team/discrepancies"
+        },
+        {
+            "name": "Summary",
+            "icon": "ti-smart-home",
+            "url": "user/attendance/summary"
+        },
+        {
+            "name": "Filter Summary",
+            "icon": "ti-smart-home",
+            "url": "user/attendance/advance-filter/summary"
+        },
+        {
+            "name": "Terminated Employees Summary",
+            "icon": "ti-smart-home",
+            "url": "user/attendance/terminated_employee_summary"
+        },
+        {
+            "name": "Roles",
+            "icon": "ti-smart-home",
+            "url": "roles"
+        },
+        {
+            "name": "Permissions",
+            "icon": "ti-smart-home",
+            "url": "permissions"
+        },
+        {
+            "name": "Authorize Users",
+            "icon": "ti-smart-home",
+            "url": "authorize_emails"
+        },
+        {
+            "name": "Positions",
+            "icon": "ti-smart-home",
+            "url": "positions"
+        },
+        {
+            "name": "Shifts",
+            "icon": "ti-smart-home",
+            "url": "work_shifts"
+        },
+        {
+            "name": "Departments",
+            "icon": "ti-smart-home",
+            "url": "departments"
+        },
+        {
+            "name": "Announcements",
+            "icon": "ti-smart-home",
+            "url": "announcements"
+        },
+        {
+            "name": "Cover Images",
+            "icon": "ti-smart-home",
+            "url": "profile_cover_images"
+        },
+        {
+            "name": "Leave Types",
+            "icon": "ti-smart-home",
+            "url": "leave_types"
+        },
+        {
+            "name": "Team Members",
+            "icon": "ti-smart-home",
+            "url": "teams-members"
+        },
+        {
+            "name": "Bank Accounts",
+            "icon": "ti-smart-home",
+            "url": "bank_accounts"
+        },
+        {
+            "name": "Inventory Categories",
+            "icon": "ti-smart-home",
+            "url": "inventory-category"
+        },
+        {
+            "name": "Assets",
+            "icon": "ti-smart-home",
+            "url": "assets"
+        },
+        {
+            "name": "Grievance",
+            "icon": "ti-smart-home",
+            "url": "grievances"
+        }
+    ]
+}

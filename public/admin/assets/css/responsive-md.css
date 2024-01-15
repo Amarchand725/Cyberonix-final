@@ -1,0 +1,24 @@
+@media (max-width: 991px) { 
+    
+    .admin-team-scroll {
+        height: 237px;
+    }
+    .admin-news, .manager-news  {
+        height: 252px;
+    }
+    .admin-welcome, .emp-news {
+        height: auto !important;
+    }
+    .manager-attendance-scroll {
+        height: 327px;
+    }
+    .manager-summary-list button {
+        font-size: 13px;
+    }
+    .emp-attendance-scroll {
+        height: 469px;
+    }
+    .profile-btn {
+        font-size: 13px;
+    }
+}

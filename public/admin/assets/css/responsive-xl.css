@@ -1,0 +1,8 @@
+@media (max-width: 1230px) { 
+    .clock-out, .clock-in {
+        font-size: 14px;
+    }
+    .user-profile-info ul li {
+        font-size: 12px;
+    }
+}

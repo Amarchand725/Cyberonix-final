@@ -1,0 +1,46 @@
+@media (max-width: 1200px) { 
+    .ra-text {
+        font-size: 14px;
+    }
+    .card-bg {
+        height: 142px;
+    }
+    .clock-out, .clock-in {
+        font-size: 11px;
+    }
+    .admin-discrepancy-team-scroll {
+        height: 404px;
+    }
+    .admin-news {
+        height: 762px;
+    }
+    .summary-graph {
+        min-height: 486px;
+        max-height: 486px;
+    }
+    .manager-team-graph {
+        min-height: 496px;
+        max-height: 496px;
+    }
+    .manager-attendance-scroll {
+        height: 332px;
+    }
+    .manager-summary-list button {
+        font-size: 9px;
+    }
+    .timeline .timeline-item {
+        padding-left: 1.2rem;
+    }
+    .manager-team-scroll {
+        height: 265px;
+    }
+    .emp-team-scroll {
+        height: 324px;
+    }
+    .emp-attendance-scroll {
+        height: 475px;
+    }
+    .profile-btn {
+        font-size: 9px;
+    }
+}

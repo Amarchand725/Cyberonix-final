@@ -1,0 +1,2 @@
+[07-Aug-2023 18:09:33 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/cyberonix/portal.cyberonix.co/vendor/symfony/string/UnicodeString.php on line 44
+[07-Aug-2023 18:17:42 UTC] PHP Parse error:  syntax error, unexpected 'static' (T_STATIC) in /home/cyberonix/portal.cyberonix.co/vendor/symfony/string/UnicodeString.php on line 44

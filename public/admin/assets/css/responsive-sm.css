@@ -1,0 +1,23 @@
+@media (max-width: 786px) { 
+    .clock-out, .clock-in {
+        font-size: 10px;
+    }
+    .admin-summary {
+        max-height: auto;
+        min-height: auto;
+    }
+    .summary-graph {
+        min-height: auto;
+        max-height: auto;
+    }
+    
+}
+
+@media (max-width: 767px) { 
+
+.manager-team-graph {
+    min-height: auto;
+    max-height: none;
+}
+
+}
